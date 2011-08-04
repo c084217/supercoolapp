@@ -11,6 +11,9 @@
       <section class="round">
         <%= yield %>
       </section>
+      <%= render 'layouts/footer' %>
     </div>
   </body>
 </html>
+
+Of course, the
